@@ -11,7 +11,7 @@ Sebuah Program Terminal Python untuk mengklasifikasi Ticket yang disubmit user a
 
 ## Roadmap
 
-![Roadmap](https://i.postimg.cc/hvFJm4np/RoadMap.png)
+![Roadmap](https://i.postimg.cc/pd5RZt6B/raodmap.jpg)
 
 ## Integration To Website IconSup
 
